@@ -9,7 +9,7 @@ São apenas DIVs ([acesse para saber mais](https://developer.mozilla.org/pt-BR/d
 
 ## Recursos
 
-Todos os código utilizam o Framework Bootstrap 4.0. Este é um material de referência para revisão e reutilização.
+Todos os códigos utilizam o Framework Bootstrap 4.0. Este é um material de referência para revisão e reutilização.
 
 * * *
 
@@ -55,7 +55,7 @@ aqui: https://github.com/JRRSouzaJ/HTML-FAS-Moodle/blob/main/resumo-secoes.html
 
 * * *
 
-## Communication
+## Communicação
 + [Telegram: @JRRSouzaJ](https://t.me/jrrsouzaj)
 
 ## Contribuindo para o projeto
