@@ -24,7 +24,7 @@ https://github.com/JRRSouzaJ/HTML-FAS-Moodle/blob/main/imagem-link-aula-sensu.ht
 
 APRESENTAÇÃO DA DISCIPLINA
 
-O chamado de Modal utilizado para os vídeos de apresentação das disciplinas estão disponíveis aqui: 
+O chamado de Modal utilizado para os vídeos de apresentação das disciplinas está disponível aqui: 
 https://github.com/JRRSouzaJ/HTML-FAS-Moodle/blob/main/modal-video.html
 
 * * * 
@@ -32,7 +32,7 @@ https://github.com/JRRSouzaJ/HTML-FAS-Moodle/blob/main/modal-video.html
 CONHECENDO AS UNIDADES DE APRENDIZAGEM
 
 O código do acordeão utilizado para apresentar o vídeo de apresentação das Unidades de Aprendizagem
-estão disponíveis aqui: https://github.com/JRRSouzaJ/HTML-FAS-Moodle/blob/main/resumo-uas.html
+está disponível aqui: https://github.com/JRRSouzaJ/HTML-FAS-Moodle/blob/main/resumo-uas.html
 
 * * *
 
@@ -45,7 +45,7 @@ https://github.com/JRRSouzaJ/HTML-FAS-Moodle/blob/main/page-videoaula-link-conte
 
 RESUMO DA SEÇÃO
 
-O código utilizado para os resumos internos destro das seções (aqueles de fundo azul) estão disponíveis
+O código utilizado para os resumos internos destro das seções (aqueles de fundo azul) está disponível
 aqui: https://github.com/JRRSouzaJ/HTML-FAS-Moodle/blob/main/resumo-secoes.html
 
 
