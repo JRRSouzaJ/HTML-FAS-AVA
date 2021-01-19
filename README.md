@@ -5,7 +5,7 @@ que criei para as disciplinas e cursos do AVA Sensu (Moodle).
 
 ## O que ele faz?
 
-São apenas DIVs [Acesse para saber mais](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/div)usadas para implementar recursos e elemtos visuais, interativos ou não.
+São apenas DIVs ([acesse para saber mais](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/div)) usadas para implementar recursos e elemtos visuais, interativos ou não.
 
 ## Recursos
 
