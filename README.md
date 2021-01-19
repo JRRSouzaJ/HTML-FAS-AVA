@@ -17,14 +17,14 @@ https://github.com/JRRSouzaJ/HTML-FAS-Moodle/blob/main/resumo-secoes.html
 
 AULA SENSU
 
-A imagem utilizada como link de acesso a atividade BBB (Aula Sensu) está disponível aqui:
+O código da imagem utilizada como link de acesso a atividade BBB (Aula Sensu) está disponível aqui:
 https://github.com/JRRSouzaJ/HTML-FAS-Moodle/blob/main/imagem-link-aula-sensu.html
 
 * * * 
 
 APRESENTAÇÃO DA DISCIPLINA
 
-O chamado de Modal utilizado para os vídeos de apresentação das disciplinas está disponível aqui: 
+O código para o chamado de Modal utilizado nos vídeos de apresentação das disciplinas está disponível aqui: 
 https://github.com/JRRSouzaJ/HTML-FAS-Moodle/blob/main/modal-video.html
 
 * * * 
