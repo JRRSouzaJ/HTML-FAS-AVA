@@ -13,6 +13,8 @@ OLÁ, ESTUDANTE
 O código do acordeão utilizado para saudar os estudantes está disponível aqui:
 https://github.com/JRRSouzaJ/HTML-FAS-Moodle/blob/main/resumo-secoes.html
 
+* * *
+
 AULA SENSU
 
 A imagem utilizada como link de acesso a atividade BBB (Aula Sensu) está disponível aqui:
