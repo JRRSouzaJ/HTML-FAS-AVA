@@ -18,30 +18,35 @@ Todos os código utilizam o Framework Bootstrap 4.0. Este é um material de refe
 O código do acordeão utilizado para saudar os estudantes está disponível aqui:
 https://github.com/JRRSouzaJ/HTML-FAS-Moodle/blob/main/resumo-secoes.html
 
+ * * * 
 
 * AULA SENSU
 
 O código da imagem utilizada como link de acesso a atividade BBB (Aula Sensu) está disponível aqui:
 https://github.com/JRRSouzaJ/HTML-FAS-Moodle/blob/main/imagem-link-aula-sensu.html
 
+* * * 
 
 * APRESENTAÇÃO DA DISCIPLINA
 
 O código para o chamado de Modal utilizado nos vídeos de apresentação das disciplinas está disponível aqui: 
 https://github.com/JRRSouzaJ/HTML-FAS-Moodle/blob/main/modal-video.html
 
+* * * 
 
 * CONHECENDO AS UNIDADES DE APRENDIZAGEM
 
 O código do acordeão utilizado para apresentar o vídeo de apresentação das Unidades de Aprendizagem
 está disponível aqui: https://github.com/JRRSouzaJ/HTML-FAS-Moodle/blob/main/resumo-uas.html
 
+* * * 
 
 * CONTEÚDO DA UNIDADE
 
 O código de visual para a página que contém o vídeo e o link para o conteúdo está disponível aqui:
 https://github.com/JRRSouzaJ/HTML-FAS-Moodle/blob/main/page-videoaula-link-conteudo.html
 
+* * * 
 
 * RESUMO DA SEÇÃO
 
