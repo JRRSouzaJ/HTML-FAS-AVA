@@ -16,7 +16,7 @@ Todos os códigos utilizam o Framework Bootstrap 4.0. Este é um material de ref
 * OLÁ, ESTUDANTE
 
 O código do acordeão utilizado para saudar os estudantes está disponível aqui:
-https://github.com/JRRSouzaJ/HTML-FAS-Moodle/blob/main/resumo-secoes.html
+https://github.com/JRRSouzaJ/HTML-FAS-AVA/blob/main/ola-estudante.html
 
  * * * 
 
