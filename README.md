@@ -67,7 +67,7 @@ Seja livre em fazer seu Fork ou enviar commits. Este é um projeto de construç�
 + [Telegram: @JRRSouzaJ](https://t.me/jrrsouzaj)
 
 ## License
-<a href="" target="_blank"><img src="https://github.com/JRRSouzaJ/HTML-FAS-AVA/blob/main/avasensu_.png" alt="logo do projeto" align="right"></a>  Este projeto usa a [GNU General Public License, Version 3](https://github.com/JRRSouzaJ/HTML-FAS-AVA/blob/main/LICENSE).
+<a href="" target="_blank"><img src="https://github.com/JRRSouzaJ/HTML-FAS-AVA/blob/main/avasensu_.png" alt="logo do projeto" align="right" style="width:50%"></a>  Este projeto usa a [GNU General Public License, Version 3](https://github.com/JRRSouzaJ/HTML-FAS-AVA/blob/main/LICENSE).
 
 
 
